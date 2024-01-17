@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DI4_MCU Pin=VD2-1
+Removed Pin From Net: NetName=DI7_BT_MCU Pin=VD2-1
+Removed Pin From Net: NetName=D_GND Pin=VD2-2
+Added Pin To Net: NetName=A_GND Pin=VD1-2
+Added Pin To Net: NetName=DI7_BT_MCU Pin=VD2-1
+Added Pin To Net: NetName=DI4_MCU Pin=VD2-4

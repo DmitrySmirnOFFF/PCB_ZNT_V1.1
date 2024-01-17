@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=AI1_X_MCU Pin=VD1-1
+Removed Pin From Net: NetName=A_GND Pin=VD1-2
+Removed Pin From Net: NetName=AI2_Y_MCU Pin=VD1-3
+Added Component: Designator=VD23(VD_SOD523)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "SOD523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ESD5Z3.3T1G TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3.3В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VD24(VD_SOD523)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "SOD523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ESD5Z3.3T1G TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3.3В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Диод"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D_GND Pin=VD1-2
+Added Pin To Net: NetName=AI1_X_MCU Pin=VD23-1
+Added Pin To Net: NetName=A_GND Pin=VD23-2
+Added Pin To Net: NetName=AI2_Y_MCU Pin=VD24-1
+Added Pin To Net: NetName=A_GND Pin=VD24-2
+Added Member To Class: ClassName=Ai Member=Component VD23 ESD
+Added Member To Class: ClassName=Ai Member=Component VD24 ESD

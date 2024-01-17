@@ -1,0 +1,11 @@
+Added Component: Designator=VD33(SOT-363)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "PESD3V3L5UY "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Диод"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Ai Member=Component VD33 ESD
