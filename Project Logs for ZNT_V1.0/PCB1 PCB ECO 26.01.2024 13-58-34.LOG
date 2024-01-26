@@ -1,0 +1,14 @@
+Added Component: Designator=VD11(VD_LEDsx2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "L-59EGW-CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = "red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "green"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR58_1 Pin=VD11-1
+Added Pin To Net: NetName=+5V_D Pin=VD11-2
+Added Pin To Net: NetName=NetR57_1 Pin=VD11-3
+Added Member To Class: ClassName=Main Member=Component VD11 VD_Ledx2_dip

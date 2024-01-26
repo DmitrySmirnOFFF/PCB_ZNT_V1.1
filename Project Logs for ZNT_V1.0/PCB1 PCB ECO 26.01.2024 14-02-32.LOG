@@ -1,0 +1,13 @@
+Added Component: Designator=VD16(VD_LED_dip)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "BL-L2506UBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "DIP 2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "BL-L2506UBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = "синий"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_D Pin=VD16-1
+Added Pin To Net: NetName=NetR63_2 Pin=VD16-2
+Added Member To Class: ClassName=Main Member=Component VD16 VD_Led
