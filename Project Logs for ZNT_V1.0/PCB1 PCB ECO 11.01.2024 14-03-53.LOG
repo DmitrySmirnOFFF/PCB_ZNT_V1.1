@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=NetC18_2 Pin=R13-6
-Removed Pin From Net: NetName=NetC16_2 Pin=R13-7
-Added Pin To Net: NetName=NetC16_2 Pin=R13-6
-Added Pin To Net: NetName=NetC18_2 Pin=R13-7
-Added Pin To Net: NetName=D_GND Pin=VD1-2
-Added Member To Class: ClassName=Ai Member=Component R11 סבמנךא 4רע

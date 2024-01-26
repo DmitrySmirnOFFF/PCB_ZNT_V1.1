@@ -1260,10 +1260,10 @@ Net15=NetName=AI1_X|NetColor=$00916D8D
 Net16=NetName=TXP|NetColor=$00FFFF6E
 Net17=NetName=NRST_MC|NetColor=$00996666
 Net18=NetName=NetDD?_37|NetColor=$006EFF6E
-Net19=NetName=/INT_eth|NetColor=$0066FFCC
-Net20=NetName=CS_eth|NetColor=$002F8FA8
-Net21=NetName=DI6_MCU|NetColor=$00CC00CC
-Net22=NetName=+5V_RS|NetColor=$009999FF
+Net19=NetName=DI6_MCU|NetColor=$00CC00CC
+Net20=NetName=+5V_RS|NetColor=$009999FF
+Net21=NetName=/INT_eth|NetColor=$0066FFCC
+Net22=NetName=CS_eth|NetColor=$002F8FA8
 Net23=NetName=NetDD?_36|NetColor=$0066FFCC
 Net24=NetName=/SPI-SCS_eth|NetColor=$0000CCCC
 Net25=NetName=AI2_Y_MCU|NetColor=clMaroon
@@ -1304,7 +1304,7 @@ Net59=NetName=RST_eth|NetColor=$00003333
 Net60=NetName=SWCLK_MC|NetColor=$00FFCCCC
 Net61=NetName=MOSI_eth|NetColor=$00009966
 Net62=NetName=USB_DM|NetColor=$00FF6600
-Net63=NetName=+24V|NetColor=$00996666
+Net63=NetName=+24V|NetColor=$006E6EFF
 Net64=NetName=NetBQ2_2|NetColor=$009C6468
 Net65=NetName=A_GND|NetColor=$00263180
 Net66=NetName=DI7_BT|NetColor=$00916D8D
@@ -1312,7 +1312,6 @@ Net67=NetName=24V_GND|NetColor=$00993333
 Net68=NetName=DI4|NetColor=$00916D8D
 Net69=NetName=LINKLED|NetColor=$00CDA2D2
 Net70=NetName=DI4_MCU|NetColor=$00CC00CC
-Net71=NetName=+5V_D|NetColor=$000066CC
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
