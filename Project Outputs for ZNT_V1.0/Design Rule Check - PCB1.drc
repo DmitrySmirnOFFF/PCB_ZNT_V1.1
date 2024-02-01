@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\AltiumPro\ZNTinputControl_REV1.0\PCb_V1.0\ZNT_V1.0\PCB1.PcbDoc
-Date     : 17.01.2024
-Time     : 15:18:29
+PCB File : C:\AltiumPro\ZNTinputControl_REV1.0\PCb_V1.0_Git\pcb_ZNT_V1.1\PCB_ZNT_V1.1\PCB1.PcbDoc
+Date     : 01.02.2024
+Time     : 8:44:33
 
 Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
 Rule Violations :0
@@ -16,7 +16,9 @@ Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.3mm) (Max=0.6mm) (Preferred=0.3mm) (All)
-Rule Violations :0
+   Violation between Width Constraint: Track (216.662mm,160.574mm)(216.662mm,160.909mm) on Top Layer Actual Width = 0.2mm, Target Width = 0.3mm
+   Violation between Width Constraint: Track (216.682mm,143.784mm)(216.682mm,144.119mm) on Top Layer Actual Width = 0.2mm, Target Width = 0.3mm
+Rule Violations :2
 
 Processing Rule : Routing Layers(All)
 Rule Violations :0
@@ -50,6 +52,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 4
+Violations Detected : 6
 Waived Violations : 0
 Time Elapsed        : 00:00:00
