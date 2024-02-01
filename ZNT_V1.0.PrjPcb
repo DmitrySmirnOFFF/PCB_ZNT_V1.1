@@ -191,78 +191,74 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ZNT_V1.0\Design Rule Check - PCB1.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for ZNT_V1.0\PCB1.RUL
 DItemRevisionGUID=
 
@@ -1285,10 +1281,10 @@ Net15=NetName=AI1_X|NetColor=$00916D8D
 Net16=NetName=TXP|NetColor=$00FFFF6E
 Net17=NetName=NRST_MC|NetColor=$00996666
 Net18=NetName=NetDD?_37|NetColor=$006EFF6E
-Net19=NetName=/INT_eth|NetColor=$0066FFCC
-Net20=NetName=CS_eth|NetColor=$002F8FA8
-Net21=NetName=DI6_MCU|NetColor=$00CC00CC
-Net22=NetName=+5V_RS|NetColor=$009999FF
+Net19=NetName=DI6_MCU|NetColor=$00CC00CC
+Net20=NetName=+5V_RS|NetColor=$009999FF
+Net21=NetName=/INT_eth|NetColor=$0066FFCC
+Net22=NetName=CS_eth|NetColor=$002F8FA8
 Net23=NetName=NetDD?_36|NetColor=$0066FFCC
 Net24=NetName=/SPI-SCS_eth|NetColor=$0000CCCC
 Net25=NetName=AI2_Y_MCU|NetColor=clMaroon
