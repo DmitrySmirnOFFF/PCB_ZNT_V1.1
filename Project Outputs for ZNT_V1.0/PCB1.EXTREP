@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB1.GBR   24.01.2024  11:28:30
+Gerber File Extension Report For: PCB1.GBR   01.02.2024  14:33:12
 ------------------------------------------------------------------------------------------
 
 
@@ -15,5 +15,6 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM2                kontur                                  
-.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
 ------------------------------------------------------------------------------------------
